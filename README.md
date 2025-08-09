@@ -101,3 +101,10 @@ Shows a user's own past workouts in a list, as well as follower/following counts
 - [ ] Other User’s Profile Screen
 * → Follow/Unfollow
 * → Home Feed (back)
+
+---
+
+## Wireframes
+
+<img src="wireframe.png" width=600>
+
