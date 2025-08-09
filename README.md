@@ -77,7 +77,7 @@ Shows a user's own past workouts in a list, as well as follower/following counts
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Login / Register Screen
+- [x] Login / Register Screen
 * → Home Feed (after successful login or registration)
 * → (optional) Error handling for invalid credentials
 
